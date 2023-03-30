@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+  /* outline: 1px solid red; */
+}
+
+:root{
+  background-color: #7d7d7d;
+  -webkit-user-select: none;   
+  -moz-user-select: none;      
+  -ms-user-select: none;       
+  user-select: none;  
+}
+
+
+ 
